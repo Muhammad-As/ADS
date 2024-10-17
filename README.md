@@ -1,1 +1,1 @@
-# ADS
+#it is ADS file.
